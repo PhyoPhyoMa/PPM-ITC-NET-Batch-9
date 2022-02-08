@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Day3;
 
 namespace Day2
 {
@@ -42,7 +43,8 @@ namespace Day2
                 sum += i;
             }
             Console.WriteLine("Sum : " + sum);
-
+            Calculation ca = new Calculation();
+            ca.Addition(10, 20);
         }
     }
 }

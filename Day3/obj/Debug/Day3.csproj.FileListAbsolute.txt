@@ -1,0 +1,7 @@
+D:\MyTutorials\ITC(C#)\B9 Version Control\PPM-ITC-NET-Batch-9\Day3\bin\Debug\Day3.exe.config
+D:\MyTutorials\ITC(C#)\B9 Version Control\PPM-ITC-NET-Batch-9\Day3\bin\Debug\Day3.exe
+D:\MyTutorials\ITC(C#)\B9 Version Control\PPM-ITC-NET-Batch-9\Day3\bin\Debug\Day3.pdb
+D:\MyTutorials\ITC(C#)\B9 Version Control\PPM-ITC-NET-Batch-9\Day3\obj\Debug\Day3.csproj.AssemblyReference.cache
+D:\MyTutorials\ITC(C#)\B9 Version Control\PPM-ITC-NET-Batch-9\Day3\obj\Debug\Day3.csproj.CoreCompileInputs.cache
+D:\MyTutorials\ITC(C#)\B9 Version Control\PPM-ITC-NET-Batch-9\Day3\obj\Debug\Day3.exe
+D:\MyTutorials\ITC(C#)\B9 Version Control\PPM-ITC-NET-Batch-9\Day3\obj\Debug\Day3.pdb
